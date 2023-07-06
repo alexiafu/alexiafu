@@ -4,9 +4,14 @@ I'm Alexia from Taiwan, a dedicated and motivated data scientist with a Master's
 
 ----
 
-#### Languages and Tools 🛠️
+#### Languages and Tools 💻
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src=https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg/>
 
                    
