@@ -5,7 +5,7 @@ I'm Alexia from Taiwan, a dedicated and motivated data scientist with a Master's
 
 Skills: Python / R / SQL / Tableau / Power BI / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
