@@ -5,7 +5,9 @@ I'm Alexia from Taiwan, a dedicated and motivated data scientist with a Master's
 ----
 
 #### Languages and Tools 🛠️
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=https://github.com/devicons/devicon/blob/v2.15.1/icons/r/r-original.svg/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src=https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg/>
+
                    
 <br />
 
